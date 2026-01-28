@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-class Video
+public class Video
 {
     public string Title { get; set; }
     public string Author { get; set; }
